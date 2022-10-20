@@ -1,4 +1,4 @@
-### Olá! Eu me chjamo Laura e tenho 20 anos, sou apaixonada por tecnologia 👋
+### Olá! Eu me chamo Laura e tenho 20 anos, sou apaixonada por tecnologia 👋
 
 - 🔭 Hoje estou em busca do meu primeiro emprego como dev Júnior
 - 🌱 Estudando na Digital house 
