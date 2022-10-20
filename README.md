@@ -1,7 +1,7 @@
 ### Olá! Eu me chjamo Laura e tenho 20 anos, sou apaixonada por tecnologia 👋
 
 - 🔭 Hoje estou em busca do meu primeiro emprego como dev Júnior
-- 🌱 Estudando Java na Digital house 
+- 🌱 Estudando na Digital house 
 - 😄 Pronouns: ela/dela
 
 
