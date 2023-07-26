@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Laura e tenho 21 anos, sou apaixonada por programação 👋
 
 - 🔭 Hoje estou em busca do meu primeiro emprego como dev Júnior
-- 🌱 Estudando por conta própria 
+- 🌱 Estudando na Laboratória 💛
 - 😄 Pronouns: ela/dela
 
 <div align="center">
