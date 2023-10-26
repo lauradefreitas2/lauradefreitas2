@@ -1,28 +1,30 @@
-### Olá! Eu me chamo Laura e tenho 21 anos, sou apaixonada por programação 👋
+### Olá! eu sou Laura! Sou desenvolvedora Back-End e eu tenho 21 anos. 👋🏼
+- 🏡 Moro em Itabuna/BA
+- 📚 Estou constantemente em busca de aprendizado e evolução, estudando novas tecnologias, frameworks e metodologias.
+- 👩‍💻 Minhas principais áreas de interesse incluem desenvolvimento web, desenvolvimento de jogos e segurança da informação.
 
-- 🔭 Hoje estou em busca do meu primeiro emprego como dev Júnior
-- 🌱 Estudando na Laboratória 💛
-- 😄 Pronouns: ela/dela
+![laura GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradefreitas2&show_icons=true&theme=transparent)
 
-<div align="center">
-  <a href="https://github.com/lauradefreitas2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauradefreitas2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradefreitas2&layout=compact&langs_count=7&theme=dracula"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauradefreitas2&hide_progress=true)
+
+## Tecnologias que eu uso:
+
+<div style="display: inline_block"><br/>
+<img align= "center" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align= "center" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img align= "center" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align= "center" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img align= "center" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img align= "center" src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align= "center" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align= "center" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align= "center" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align= "center" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="laura-java" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="laura-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="laura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauradefreitas/)
 
-<div> 
-  <a href="https://www.instagram.com/lauradovale.js/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/lauradovalebr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:laurafribeirooabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/laura-de-freitas-b733a6222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+<div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"</div>
