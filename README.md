@@ -1,5 +1,6 @@
-### Olá! eu sou Laura! Sou desenvolvedora Back-End e eu tenho 21 anos. 👋🏼
-- 🏡 Moro em Itabuna/BA
+### Olá! eu sou Laura! Sou desenvolvedora Back-End e eu tenho 22 anos. 👋🏼
+- 💻 Analista de Sistemas no Bradesco
+- 🏡 Moro em Recife/PE
 - 📚 Estou constantemente em busca de aprendizado e evolução, estudando novas tecnologias, frameworks e metodologias.
 - 👩‍💻 Minhas principais áreas de interesse incluem desenvolvimento web, desenvolvimento de jogos e segurança da informação.
 
