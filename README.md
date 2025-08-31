@@ -2,7 +2,6 @@
 - 💻 Analista de Sistemas no Bradesco
 - 🏡 Moro em Recife/PE
 - 📚 Estou constantemente em busca de aprendizado e evolução, estudando novas tecnologias, frameworks e metodologias.
-- 👩‍💻 Minhas principais áreas de interesse incluem desenvolvimento web, desenvolvimento de jogos e segurança da informação.
 
 ![laura GitHub stats](https://github-readme-stats.vercel.app/api?username=lauradefreitas2&show_icons=true&theme=transparent)
 
