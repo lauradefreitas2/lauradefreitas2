@@ -1,5 +1,5 @@
-### Olá! eu sou Laura! Sou desenvolvedora Back-End e eu tenho 23 anos. 👋🏼
-- 💻 Analista de Sistemas no Bradesco
+### Olá! eu sou Laura! Sou desenvolvedora Back-End e eu tenho 24 anos. 👋🏼
+- 💻 Software Engineer no Bradesco
 - 🏡 Moro em Recife/PE
 - 📚 Estou constantemente em busca de aprendizado e evolução, estudando novas tecnologias, frameworks e metodologias.
 
